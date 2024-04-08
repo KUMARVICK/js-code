@@ -7,4 +7,4 @@ let age = 27 // number
 let isLoggedIn = false // boolean
 let state;
 
-console.log(typeof "Vicky");
+console.log(typeof "Vicky"); // string
